@@ -1,0 +1,13 @@
+body {
+  background-color: black;
+}
+.yellow {
+  background-color: rgb(221, 245, 6);
+}
+.black {
+  background-color: #000;
+}
+
+div {
+  height: 100px
+}
